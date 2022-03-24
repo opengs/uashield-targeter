@@ -82,7 +82,10 @@ def main():
             #convert data to json format
             json_out = []
             for target in bank.targets:
-                json_out.append({ "page": target })
+                json_out.append({ 
+                    "method": "get",
+                    "page": target
+                })
             
             apply_target(json_out)
 
