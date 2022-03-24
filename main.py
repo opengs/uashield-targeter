@@ -32,7 +32,7 @@ def load_all_targets():
 def apply_target(json_data):
     #prepare environment
     if not os.path.isdir('./repo'):
-        r = os.system('ssh-agent bash -c "ssh-add ./push_key; git clone git@github.com:opengs/uashieldtargets.git -b v2 repo"')
+        r = os.system('ssh-agent bash -c "ssh-add ./push_key; git clone git@github.com:opengs/uashieldtargets.git -b master repo"')
         if r != 0:
             print(f"Fail to clone git repo. Exit code {r}")
             raise Exception()
