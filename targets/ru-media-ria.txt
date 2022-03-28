@@ -49,6 +49,7 @@ https://web-balancer-main.ria.ru
 https://gosuslugi.ru/
 https://www.mos.ru/
 https://smotrim.ru
+https://api.smotrim.ru
 https://www.gazeta.ru/
 https://smi2.ru/
 https://tass.ru/
