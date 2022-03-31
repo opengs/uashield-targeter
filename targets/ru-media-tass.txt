@@ -12,11 +12,6 @@ https://api-corr.tass.ru
 https://appspace01.tass.ru
 https://armata-tank.tass.ru
 https://armiya-china.tass.ru
-https://cdn.tass.ru
-https://cdn1.tass.ru
-https://cdn2.tass.ru
-https://cdn3.tass.ru
-https://cdn4.tass.ru
 https://conference.tass.ru
 https://cybersecurity.tass.ru
 https://declaration1868.tass.ru
