@@ -5,11 +5,6 @@ https://actualidad.rt.com
 https://assange.rt.com
 https://backend-chtd.rt.com
 https://catalog.rt.com
-https://cdn.rt.com
-https://cdni.rt.com
-https://cdnmg.vesti.ru
-https://cdnv.rt.com
-https://chtd.rt.com
 https://fakecheck.rt.com
 https://img.rt.com
 https://mail2.rt.com
